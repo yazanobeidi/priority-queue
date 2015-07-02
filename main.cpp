@@ -29,15 +29,14 @@
 ***                                                                       ***
 ****************************************************************************/
 
+//The following code simply provides a demo for the BST class:
+
 #include<iostream>
 #include"priority_queue.hpp"
 
 int main() {
 	//Used to set queue size:
-	//int* queue_size = new int;
 	int queue_size;
-	
-	//The following code simply provides a demo for the BST class:
 	
 	//flags for demo
 	char continue_flag;
