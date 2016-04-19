@@ -1,18 +1,11 @@
 # priority-queue
-C++ Implementation of a Max Heap data structure (Priority Queue Representation)
+This is a max heap represented as a priority cue implemented in C++. This was done as part of my algorithms and data structures course in second year.
 
-	Files:
-		- priority_queue.hpp - Heap (Priority Queue Representation) declarations
-		- priority_queue.cpp - Heap (Priority Queue Representation) implementation
-		- main.cpp - main, runs Heap (Priority Queue Representation) Demo
-		- README.txt
-		- LICENCE.txt
+## Instructions
 
+1. Clone repo and enter directory
+2. Compile source files: ```g++ *.cpp -o priorityQueue```
+3. Run ```./priorityQueue```
 
-	Instructions:
-		
-		1. On the command line navigate to PriorityQueue directory (cd priorityQueue)
-		2. Compile source files (g++ *.cpp -o priorityQueue) ... ignore warnings
-		3. Run (./priorityQueue)
-		
-Copyright 2015 Yazan Obeidi
+## License
+Copyright 2015, 2016 Yazan Obeidi (GNU GPLv3)
